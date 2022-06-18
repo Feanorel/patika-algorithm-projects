@@ -23,3 +23,9 @@ www.patika.dev
 - [2,3,5,8,7,9,4,15,6] -> The 2nd row 3 is the smallest, no need to change.
 - [2,3,4,8,7,9,5,15,6] -> 5 to 4 swapping changes.
 - [2,3,4,5,7,9,8,15,6] -> 8 to 5 swapping changes.
+
+# Project 2
+## [16,21,11,8,12,22] -> Merge Sort
+
+- Step 1: [16,21,11,8,12,22]
+- 
