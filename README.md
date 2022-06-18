@@ -18,4 +18,8 @@ www.patika.dev
 - > Worst case: The number we are looking for is at the end,
 - > Best case: The number we are looking for is at the beginning of the array.
 
-## [7,3,5,8,2,9,4,15,6] ->
+## [7,3,5,8,2,9,4,15,6] -> Insertion Sort
+- [2,3,5,8,7,9,4,15,6] -> 7 to 2 swapping changes.
+- [2,3,5,8,7,9,4,15,6] -> The 2nd row 3 is the smallest, no need to change.
+- [2,3,4,8,7,9,5,15,6] -> 5 to 4 swapping changes.
+- [2,3,4,5,7,9,8,15,6] -> 8 to 5 swapping changes.
