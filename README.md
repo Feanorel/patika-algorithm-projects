@@ -10,3 +10,5 @@ www.patika.dev
 - [2,6,16,18,22,27] -> The 5th row element is the smallest. No need to change.
 - [2,6,16,18,22,27] -> The 6th row element is the biggest and finish.
 
+### Big-O 
+-  O(n²) = O(6²) = O(36)
