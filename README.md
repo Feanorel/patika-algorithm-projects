@@ -12,3 +12,8 @@ www.patika.dev
 
 ### Big-O 
 -  O(n²) = O(6²) = O(36)
+
+#### Time Complexity
+> Average case: The number we are looking for is in the middle,
+> Worst case: The number we are looking for is at the end,
+> Best case: The number we are looking for is at the beginning of the array.
