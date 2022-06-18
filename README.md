@@ -36,3 +36,6 @@ www.patika.dev
 - Step 7: [8,11,12,16,21,22] 
 
 ### Big-O
+- O(nlogn) = O(6log6)
+
+
