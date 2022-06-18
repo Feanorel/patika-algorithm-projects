@@ -14,6 +14,8 @@ www.patika.dev
 -  O(n²) = O(6²) = O(36)
 
 #### Time Complexity
-- > Average case: The number we are looking for is in the middle,
+- > **Average case: The number we are looking for is in the middle,**
 - > Worst case: The number we are looking for is at the end,
 - > Best case: The number we are looking for is at the beginning of the array.
+
+## [7,3,5,8,2,9,4,15,6] ->
