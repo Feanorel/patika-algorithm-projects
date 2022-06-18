@@ -38,4 +38,8 @@ www.patika.dev
 ### Big-O
 - O(nlogn) = O(6log6)
 
+# Project 3 
 
+## [7,5,1,8,3,6,0,9,4,2] -> Binary-Search-Tree
+
+![Tree](https://ibb.co/vdJfSLy)
