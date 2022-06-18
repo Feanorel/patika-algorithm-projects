@@ -42,4 +42,4 @@ www.patika.dev
 
 ## [7,5,1,8,3,6,0,9,4,2] -> Binary-Search-Tree
 
-![Tree](https://ibb.co/vdJfSLy](https://i.ibb.co/xgMwNz9/binary-search-tree.png](https://www.hizliresim.com/fbmlvmt)
+![Tree] (https://i.hizliresim.com/fbmlvmt.png)
