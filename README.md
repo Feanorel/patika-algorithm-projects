@@ -42,4 +42,4 @@ www.patika.dev
 
 ## [7,5,1,8,3,6,0,9,4,2] -> Binary-Search-Tree
 
-![Tree] (binary-search-tree.pnp)
+![Tree] (https://r.resimlink.com/HG8l_Z.png)
